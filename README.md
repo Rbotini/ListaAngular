@@ -1,4 +1,4 @@
-# ListaCoffe
+# Projeto Desenvolvido em Angular Consumindo uma Api Rest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
