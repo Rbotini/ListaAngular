@@ -1,4 +1,4 @@
-# Projeto Desenvolvido em Angular Consumindo uma Api Rest
+# Projeto Desenvolvido em Angular Consumindo uma API Rest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
